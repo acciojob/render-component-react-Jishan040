@@ -4,7 +4,10 @@ import '../styles/App.css';
 const App = () => {
   return (
     <div id="main">
-      <P>I am learning React. My life is getting better.</P>
+      <p>
+      I am learning React. My life is getting better.
+      </p>
+     
     </div>
   )
 }
